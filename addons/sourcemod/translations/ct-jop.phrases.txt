@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"Onlyct"
+	{
+		"en"	"{green}[CT-Jop] {default}Only {green}CT players {default}can use this command"
+	}
+	"CT-JopOn"
+	{
+		"en"	"{green}[CT-Jop] {default}Police baton model {green}reopened"
+	}
+	"CT-JopOff"
+	{
+		"en"	"{green}[CT-Jop] {default}Police baton model {green}turned off"
+	}
+}

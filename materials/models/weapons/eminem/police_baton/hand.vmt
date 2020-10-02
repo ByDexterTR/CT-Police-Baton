@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\eminem\police_baton/hand"
+	"$bumpMap" "models\weapons\eminem\police_baton/hand_normal"
+
+	"$phong"                   "1"
+	"$phongboost"              "1"
+	"$phongexponent"           "50"
+	"$phongtint"               "[1 1 1]"
+	"$phongfresnelranges"      "[.2 .2 1]"
+	"$phongdisablehalflambert" "1"
+	"$rimlight"                "1"
+	"$rimlightexponent"        "15"
+	"$rimlightboost"           ".2"
+	
+}
