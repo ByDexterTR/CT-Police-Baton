@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"Onlyct"
+	{
+		"tr"	"{green}[CT-Jop] {default}Sadece {green}CT Oyuncuları {default} bu komutu kullanabilir"
+	}
+	"CT-JopOn"
+	{
+		"tr"	"{green}[CT-Jop] {default}Jop Modeli {green}Açıldı !"
+	}
+	"CT-JopOff"
+	{
+		"tr"	"{green}[CT-Jop] {default}Jop Modeli {darkred}Kapatıldı !"
+	}
+}
