@@ -18,7 +18,7 @@ public Plugin myinfo =
 	author = "ByDexter", 
 	description = "", 
 	version = "1.0", 
-	url = "https://steamcommunity.com/id/ByDexterTR - ByDexter#2947"
+	url = "https://steamcommunity.com/id/ByDexterTR - ByDexter#5494"
 };
 
 public void OnPluginStart()
