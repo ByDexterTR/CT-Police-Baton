@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"Onlyct"
+	{
+		"ru"	"{green}[CT-Jop] {default}Только игроки {green}спецназа {default}могут использовать эту команду"
+	}
+	"CT-JopOn"
+	{
+		"ru"	"{green}[CT-Jop] {default}Модель полицейской дубинки {green}возобновлена"
+	}
+	"CT-JopOff"
+	{
+		"ru"	"{green}[CT-Jop] {default}Модель полицейской дубинки {green}отключена"
+	}
+}
